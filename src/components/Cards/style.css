@@ -1,0 +1,39 @@
+.Card1 {
+    border: none;
+    padding: 0;
+    margin: 10px;
+    width: 170px;
+    background-color: rgb(80, 148, 12);
+    box-shadow: 9px 6px 1px rgba(68, 128, 7, 0.884);
+}
+
+.Card2 {
+    border: none;
+    padding: 0;
+    margin: 10px;
+    width: 170px;
+    background-color: rgb(44, 77, 224);
+    box-shadow: 9px 6px 1px rgba(28, 61, 207, 0.541);
+}
+
+.Card3 {
+    border: none;
+    padding: 0;
+    margin: 10px;
+    width: 170px;
+    background-color: rgb(228, 18, 182);
+    box-shadow: 9px 6px 1px rgba(158, 7, 125, 0.747);
+}
+
+
+.text {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
